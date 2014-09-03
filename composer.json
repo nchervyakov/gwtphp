@@ -1,0 +1,13 @@
+{
+    "name": "nchervyakov/gwtphp",
+    "description": "GWTPHP fork with fixes for GWT2",
+    "authors": [
+        {
+            "name": "Nikolay Chervyakov",
+            "email": "nick.chervyakov@gmail.com"
+        }
+    ],
+    "require": {
+
+    }
+}
